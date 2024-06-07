@@ -17,6 +17,8 @@ def main():
         os.makedirs(IMAGE_DIR)
 
     index = 0
+    inside_count = 0
+    total_iterations = 0  
     running = True
     while running:
         for event in pygame.event.get():
@@ -25,7 +27,10 @@ def main():
 
         points = pointGenerator()
         inside = isInCenter(points)
-        probability = 1 if inside else 0
+        if inside:
+            inside_count += 1
+        total_iterations += 1
+        probability = inside_count / total_iterations  # Calculate probability
 
         makePlot(points, index, inside, probability)
 
@@ -36,14 +41,14 @@ def main():
             screen.blit(image, (0, 0))
 
             font = pygame.font.Font(None, 36)
-            text = font.render(f"Image: {index}", True, (0, 0, 0))
+            text = font.render(f"Image: {index} Probability: {probability:.2f}", True, (0, 0, 0))
             screen.blit(text, (10, 10))
 
             pygame.display.flip()
 
             index += 1
 
-        clock.tick(999999)
+        clock.tick(60)
 
     pygame.quit()
 
