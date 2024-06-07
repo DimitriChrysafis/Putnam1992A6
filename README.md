@@ -4,6 +4,7 @@ Solution to Putnam 1992 A6
 ![](input.gif)
 
 Example of the center being INSIDE the tetrahedron.
-![](inside.gif| width=100)
+<img src="inside.gif" width="400">
+
 Example of the center being OUTSIDE the tetrahedron.
-![](outside.gif| width=100)
+<img src="outside.gif" width="400">
