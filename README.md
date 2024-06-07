@@ -4,15 +4,9 @@
 
 ![](input.gif)
 
+Left: Example of the center being INSIDE the tetrahedron.
+Right: Example of the center being OUTSIDE the tetrahedron.
 <div style="display: flex; justify-content: center;">
-    <div style="text-align: center; margin-right: 20px;">
-        <img src="inside.gif" width="300">
-        <br>
-        <p>Example of the center being INSIDE the tetrahedron.</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="outside.gif" width="300">
-        <br>
-        <p>Example of the center being OUTSIDE the tetrahedron.</p>
-    </div>
+    <img src="inside.gif" width="300">
+    <img src="outside.gif" width="300">
 </div>
