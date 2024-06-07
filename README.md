@@ -5,4 +5,9 @@
 ![](input.gif)
 
 Example of the center being INSIDE the tetrahedron.
-<img src="inside.gif" width="400"> <img src="outside.gif" width="400">
+<br>
+<img src="inside.gif" width="300">
+
+Example of the center being OUTSIDE the tetrahedron.
+<br>
+<img src="outside.gif" width="300">
