@@ -10,3 +10,6 @@ Right: Example of the center being OUTSIDE the tetrahedron.
     <img src="inside.gif" width="300">
     <img src="outside.gif" width="300">
 </div>
+
+
+[Link to Explanation Paper PDF](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf)
