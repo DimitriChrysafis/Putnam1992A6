@@ -5,6 +5,7 @@ Four points are chosen independently and at random on the surface of a sphere (u
 
 
 **Solution to Putnam 1992 A6**
+[For an unbroken pagebreak reading experience read the PDF here](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf)
 
 ![](input.gif)
 
