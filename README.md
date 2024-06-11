@@ -1,4 +1,8 @@
-# Putnam1992A6
+## Problem Statement
+**_Definitive Putnam Problem_**
+
+Four points are chosen independently and at random on the surface of a sphere (using the uniform distribution). What is the probability that the center of the sphere lies inside the resulting tetrahedron?
+
 
 **Solution to Putnam 1992 A6**
 
@@ -10,8 +14,6 @@ Right: Example of the center being OUTSIDE the tetrahedron.
     <img src="inside.gif" width="300">
     <img src="outside.gif" width="300">
 </div>
-
-
 
 - ![Page 1](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/LaTeX/PaperToPng/page_0000.png)
 - ![Page 2](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/LaTeX/PaperToPng/page_0001.png)
