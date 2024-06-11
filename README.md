@@ -10,7 +10,7 @@ The documented code provided in `PythonFiles/simulation.py` randomly chooses fou
 
 The c++ code is done similarly where ```RewriteInC++/main.cpp``` uses the convex hull header file to do the same. All data and explanation of code can be found below.
 
-Full explanation: `LaTeX/main.tex`
+Full explanation: `LaTeX/main.tex`  
 [https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf).
 
 ![](input.gif)
