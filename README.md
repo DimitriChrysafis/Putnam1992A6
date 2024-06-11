@@ -5,9 +5,11 @@ Four points are chosen independently and at random on the surface of a sphere (u
 
 
 **Solution to Putnam 1992 A6**  
-The documented code provided in ```/PythonFiles/simulation.py``` randomly choose 4 points on sphere millions of times
+The documented code provided in ``PythonFiles/simulation.py``` randomly choose four points on sphere millions of times. ```PythonFiles/visualize_tetrahedron.py``` generates the plotly interactive graph to be able to have a playground for testing. ```PythonFiles/renderer.py``` is for generating the images with the sphere wireframe and display probabilities or easy user access.  
 
-For reading the explanation of the code, [read the PDF here https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf).
+The c++ code is done similarly where ```RewriteInC++/main.cpp``` uses the convex hull header file to do the same. All data and explanation of code can be found below.
+
+[read the PDF here https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf).
 
 ![](input.gif)
 
