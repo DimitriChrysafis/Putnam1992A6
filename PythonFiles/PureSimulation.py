@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 import os
 
-
+ 
 def pointGenerator(num_points=4):
     """
     Generate random points on the surface of a sphere.
