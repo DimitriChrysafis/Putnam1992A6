@@ -9,7 +9,7 @@ The documented code provided in ``PythonFiles/simulation.py``` randomly choose f
 
 The c++ code is done similarly where ```RewriteInC++/main.cpp``` uses the convex hull header file to do the same. All data and explanation of code can be found below.
 
-[read the PDF here https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf).
+[https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf).
 
 ![](input.gif)
 
