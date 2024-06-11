@@ -5,6 +5,8 @@ Four points are chosen independently and at random on the surface of a sphere (u
 
 
 **Solution to Putnam 1992 A6**  
+The documented code provided in ```/PythonFiles/simulation.py``` randomly choose 4 points on sphere millions of times
+
 For reading the explanation of the code, [read the PDF here https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf).
 
 ![](input.gif)
