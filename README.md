@@ -4,7 +4,7 @@
 Four points are chosen independently and at random on the surface of a sphere (using the uniform distribution). What is the probability that the center of the sphere lies inside the resulting tetrahedron?
 
 
-**Solution to Putnam 1992 A6**
+**Solution to Putnam 1992 A6**  
 For an unbroken pagebreak reading experience, [read the PDF here](https://github.com/DimitriChrysafis/Putnam1992A6/blob/main/ExplanationPaper.pdf).
 
 ![](input.gif)
