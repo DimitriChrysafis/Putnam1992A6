@@ -5,7 +5,7 @@
 
 // https://cp-algorithms.com/geometry/convex-hull.html
 // convex hull code stolen from here ^^
-// everything else is mine though
+// everything else is mine though 
 
 struct pt {
     double x, y, z;
